@@ -1,0 +1,176 @@
+1592928366681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezdO0R6"
+1592928376047	Marionette	INFO	Listening on port 43749
+1592928376142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1592928399765	Marionette	INFO	Stopped listening on port 43749
+1592928426831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekkPYNt"
+1592928431479	Marionette	INFO	Listening on port 44493
+1592928431552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+1592928443029	Marionette	INFO	Stopped listening on port 44493
+1592928960493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIZtdrr"
+1592928965102	Marionette	INFO	Listening on port 42129
+1592928965120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592929048945	Marionette	INFO	Stopped listening on port 42129
+1592929085124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMCQqpv"
+1592929091321	Marionette	INFO	Listening on port 44093
+1592929091351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592929640090	Marionette	INFO	Stopped listening on port 44093
+1592929642137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0v7DvZ"
+1592929646674	Marionette	INFO	Listening on port 39013
+1592929646755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592929781857	Marionette	INFO	Stopped listening on port 39013
+1592929782661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXlVMpl"
+1592929787164	Marionette	INFO	Listening on port 40179
+1592929787175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+1592929895969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLZKEwQ"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592929901299	Marionette	INFO	Listening on port 35453
+1592929901395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592929901653	Marionette	INFO	Stopped listening on port 40179
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+1592929980535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile95X5IC"
+1592929985045	Marionette	INFO	Listening on port 37761
+1592929985054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592930108106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG3Jjnt"
+1592930112544	Marionette	INFO	Listening on port 40421
+1592930112617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592930116987	Marionette	INFO	Stopped listening on port 37761
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+1592930339015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1WXAV"
+1592930343437	Marionette	INFO	Listening on port 42441
+1592930343527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1592930528687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ks7hL"
+1592930533628	Marionette	INFO	Listening on port 34039
+1592930533711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1592930563744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5XCzri"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592930569863	Marionette	INFO	Stopped listening on port 42441
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592930572333	Marionette	INFO	Stopped listening on port 40421
+1592930573444	Marionette	INFO	Stopped listening on port 34039
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592930575472	Marionette	INFO	Stopped listening on port 35453
+1592930579193	Marionette	INFO	Listening on port 46325
+1592930579287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.14adffa5e404bcc68e38.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592933912480	Marionette	INFO	Stopped listening on port 46325
